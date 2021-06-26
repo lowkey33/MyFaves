@@ -10,6 +10,9 @@
 		15BE4CE226876FE500304077 /* elephant.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15BE4CDF26876FE500304077 /* elephant.jpg */; };
 		15BE4CE326876FE500304077 /* lion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15BE4CE026876FE500304077 /* lion.jpg */; };
 		15BE4CE426876FE500304077 /* tiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15BE4CE126876FE500304077 /* tiger.jpg */; };
+		247521832687A95700A9F556 /* scorpion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 247521802687A95700A9F556 /* scorpion.jpg */; };
+		247521842687A95700A9F556 /* snake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 247521812687A95700A9F556 /* snake.jpg */; };
+		247521852687A95700A9F556 /* elephant33.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 247521822687A95700A9F556 /* elephant33.jpg */; };
 		36F2992D2325417E00B75CF5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36F2992C2325417E00B75CF5 /* AppDelegate.swift */; };
 		36F2992F2325417E00B75CF5 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36F2992E2325417E00B75CF5 /* MasterViewController.swift */; };
 		36F299312325417E00B75CF5 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36F299302325417E00B75CF5 /* DetailViewController.swift */; };
@@ -27,6 +30,9 @@
 		15BE4CDF26876FE500304077 /* elephant.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = elephant.jpg; sourceTree = "<group>"; };
 		15BE4CE026876FE500304077 /* lion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lion.jpg; sourceTree = "<group>"; };
 		15BE4CE126876FE500304077 /* tiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tiger.jpg; sourceTree = "<group>"; };
+		247521802687A95700A9F556 /* scorpion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = scorpion.jpg; path = ../../../../Downloads/scorpion.jpg; sourceTree = "<group>"; };
+		247521812687A95700A9F556 /* snake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = snake.jpg; path = ../../../../Downloads/snake.jpg; sourceTree = "<group>"; };
+		247521822687A95700A9F556 /* elephant33.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = elephant33.jpg; path = ../../../../Downloads/elephant33.jpg; sourceTree = "<group>"; };
 		36F299292325417E00B75CF5 /* mf.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mf.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36F2992C2325417E00B75CF5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		36F2992E2325417E00B75CF5 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
@@ -89,6 +95,9 @@
 		36F299402325497500B75CF5 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				247521802687A95700A9F556 /* scorpion.jpg */,
+				247521812687A95700A9F556 /* snake.jpg */,
+				247521822687A95700A9F556 /* elephant33.jpg */,
 				15BE4CDF26876FE500304077 /* elephant.jpg */,
 				15BE4CE026876FE500304077 /* lion.jpg */,
 				15BE4CE126876FE500304077 /* tiger.jpg */,
@@ -166,6 +175,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				247521842687A95700A9F556 /* snake.jpg in Resources */,
+				247521832687A95700A9F556 /* scorpion.jpg in Resources */,
+				247521852687A95700A9F556 /* elephant33.jpg in Resources */,
 				36F299392325418000B75CF5 /* LaunchScreen.storyboard in Resources */,
 				36F2994623254A3B00B75CF5 /* mall.jpg in Resources */,
 				15BE4CE326876FE500304077 /* lion.jpg in Resources */,
