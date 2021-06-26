@@ -35,14 +35,14 @@ class MasterViewController: UITableViewController {
         // 4) Add items to 2 arrays
         //Menus
         ListOfPhotos = [
-            UIImage(named: "mall.jpg")!,
-            UIImage(named: "bike.jpg")!,
-            UIImage(named: "googles.jpg")!,
+            UIImage(named: "elephant.jpg")!,
+            UIImage(named: "lion.jpg")!,
+            UIImage(named: "tiger.jpg")!,
             UIImage(named: "rvc.jpg")!
         ]
         
-        ListOfFavs = ["Home","Mall","Biking", "Google"]
-        FavDetails = ["https://www.rockvalleycollege.edu/","http://www.shopcherryvalemall.com/","http://www.bicycling.com", "http://www.google.com"]
+        ListOfFavs = ["Home","Elephant","Lion", "Tiger"]
+        FavDetails = ["https://www.rockvalleycollege.edu/","https://www.worldwildlife.org/species/elephant","https://www.krugerpark.co.za/africa_lion.html", "https://en.wikipedia.org/wiki/Tiger"]
         
         if let split = self.splitViewController {
             let controllers = split.viewControllers
